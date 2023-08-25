@@ -1,4 +1,9 @@
 
+  Group Member:
+
+- Sudhir Singh
+- Himanshu Sharma
+- Aman Kumar
 
 # Project_name : MaxLife Insurance Group Project
 ## Description:
